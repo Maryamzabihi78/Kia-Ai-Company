@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 nav{
 display: flex;
@@ -207,3 +208,214 @@ font-weight: bold;
 color:  rgb(48, 22, 108);
 }
 
+=======
+
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+direction: rtl;
+background-color: rgb(1, 13, 38);
+font-family: "Caveat", serif;
+font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+height:70px;
+
+
+}
+.ul{
+text-decoration: none;;
+display: flex;
+list-style: none;
+justify-content: space-between;
+gap: 100px;
+margin: 0 5px;
+}
+.li1{
+border: 2px solid white;
+display:inline-block ;
+padding: 8px 15px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
+background-color: white;
+border-radius: 20px;
+}
+.li2{
+ border: 2px solid white;
+display:inline-block ;
+padding: 8px 15px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
+background-color: white;
+border-radius: 20px;
+}
+.li3{
+    border: 2px solid white;
+display:inline-block ;
+padding: 8px 15px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
+background-color: white;
+border-radius: 20px;
+}
+.li4{
+    border: 2px solid white;
+display:inline-block ;
+padding: 8px 15px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
+background-color: white;
+border-radius: 20px;
+}
+.logo1{
+padding-top: 4px;
+padding-right: 4px;
+background-color: rgb(199, 215, 250);
+border-radius: 20px;
+}
+.search-button{
+font-size: 30px;
+border-radius:100%;
+margin: 4px;
+}
+.input{
+border-radius: 20px;
+margin-left: 0%;
+}
+.body{
+direction: rtl;
+font-family: 'Montserrat', sans-serif;
+word-spacing: 2px;
+line-height: 1.8;
+}
+.dialog{
+text-align: center;
+    font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-size: large;
+  font-weight:bold;
+font-style: normal;
+box-sizing: border-box;
+width: 400px;
+height: 350px;
+background-color: rgb(234, 238, 245);
+}
+.button-dialog{
+border-radius: 50px;
+font-family:"Caveat", serif;
+font-size: large;
+font-weight: 600;
+border:solid none;
+background-color: rgb(174, 174, 248);
+}
+
+.text-kia{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 10px blue;
+}
+s.s-about{
+direction: rtl;
+
+
+}
+.about-div{
+display:flex ;
+justify-content:space-between;
+margin: 0%;
+padding: 0%;
+
+}
+.img-kia{
+width: 250px;
+height: 100px;
+}
+.img-q{
+width: 400px;
+height: 400px;
+}
+.img1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+.img-q1{
+    width: 400px;
+    height: 400px;
+
+}
+.img-h{
+    width: 400px;
+    height: 400px;
+}
+.location{
+    display: flex;
+    justify-content: space-between;
+}
+.img4{
+    width: 400px;
+    height: 400px;
+}
+.img5{
+    width: 400px;
+    height: 400px;
+}
+.img6{
+    width: 400px;
+    height: 400px;
+}
+.ul2{
+font-weight: bold;
+}
+.pclass{
+font-weight:bolder;
+font-size: larger;
+}
+
+.input2{
+    width: 500px;
+    height: 10px;
+    padding: 10px;
+    font-size: 16px;
+    resize: vertical;
+}
+textarea {
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    font-size: 16px;
+    resize: vertical;}
+.ol{
+text-decoration: none;
+font-family: "Caveat", serif;
+font-weight: bold;
+color: rgb(48, 22, 108);
+}
+
+.ol1{
+text-decoration: none;
+font-family: "Caveat", serif;
+font-weight: bold;
+color:  rgb(48, 22, 108);
+}
+
+.ol2{
+text-decoration: none;
+font-family: "Caveat", serif;
+font-weight: bold;
+color:  rgb(48, 22, 108);
+}
+
+.ol3{
+text-decoration: none;
+font-family: "Caveat", serif;
+font-weight: bold;
+color:  rgb(48, 22, 108);
+}
+
+>>>>>>> 9d5d513c2720ffa33b500006b0828a9c0369e364
